@@ -17,3 +17,71 @@ nav{
 main section{
     text-align: center;
 }
+#background {
+    height: 725px;
+}
+body{
+    background-color:#B3B492 ;
+}
+header{
+    background-color:#B3B492 ;
+}
+nav a:hover{
+    background-color:black ;
+    color: #D8D0C1;
+}
+.book{
+    background-color:black ;
+    color: #D8D0C1;
+}
+.join{
+    background-color:black ;
+    color: #D8D0C1;
+}
+.book:hover{
+    background-color:black ;
+    color: #D8D0C1;
+}
+.join:hover{
+    background-color:black ;
+    color: #D8D0C1;
+}
+#background{
+    background-color:#B3B492 ;
+}
+.msg{
+    background-color:#B3B492 ;
+}
+footer{
+    background-color:black ;
+    color: #D8D0C1;
+}
+nav a{
+    background-color:black ;
+    color: #D8D0C1;
+}
+.home-title{
+    background-color:black ;
+    color: #D8D0C1;
+}
+h4{
+    background-color:black ;
+    color: #D8D0C1;
+}
+.msg h2{
+    background-color:black ;
+    color: #D8D0C1;
+}
+.msg p{
+    background-color:black ;
+    color: #D8D0C1;
+}
+footer a{
+    background-color:black ;
+    color: #D8D0C1;
+}
+.footer a:hover{
+    background-color:black ;
+    color: #D8D0C1;
+}
+
