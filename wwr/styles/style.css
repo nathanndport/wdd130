@@ -33,10 +33,12 @@ nav a:hover{
 .book{
     background-color:black ;
     color: #D8D0C1;
+    text-decoration: none;
 }
 .join{
     background-color:black ;
     color: #D8D0C1;
+    text-decoration: none;
 }
 .book:hover{
     background-color:black ;
@@ -59,6 +61,7 @@ footer{
 nav a{
     background-color:black ;
     color: #D8D0C1;
+    text-decoration: none;
 }
 .home-title{
     background-color:black ;
@@ -79,9 +82,26 @@ h4{
 footer a{
     background-color:black ;
     color: #D8D0C1;
+    text-decoration: none;
 }
 .footer a:hover{
     background-color:black ;
     color: #D8D0C1;
+}
+.logo{
+    width: 80px;
+}
+.icon{
+    width: 80px;
+}
+#hero-img{
+    width: 100%;
+}
+footer p{
+    font-size: 1.2em;
+    text-decoration: underline;
+}
+footer p a:hover{
+    text-decoration: underline;
 }
 
