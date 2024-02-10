@@ -41,6 +41,7 @@ nav a:hover{
     font-size: 18px;
     padding: 15px 30px;
     margin-top: 50px;
+    border-radius: 5px;
 }
 .join{
     background-color:black ;
@@ -49,6 +50,7 @@ nav a:hover{
     font-size: 18px;
     padding: 15px 30px;
     margin-top: 50px;
+    border-radius: 5px;
 }
 .book:hover{
     background-color:black ;
@@ -150,4 +152,10 @@ footer .social img{
 }
 .rapids-card{
     margin: 200px 0;
+}
+.card-img {
+    border: 10px solid #d9c2a3;
+}
+main section img {
+    box-sizing: border-box;
 }
