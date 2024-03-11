@@ -211,6 +211,20 @@ main section img {
     display: grid;
     grid-template-columns: repeat(10, 1fr);
 }
+#main-box{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+.sights-msg h1{
+    grid-column: 1/2;
+    grid-row: 2/3;
+}
+#main-image{
+    grid-column: 2/3;
+    grid-row: 2/3;
+}
+
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
